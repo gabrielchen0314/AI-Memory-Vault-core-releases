@@ -1,16 +1,16 @@
 {
   "component": "espalio-memory",
-  "download_url": "https://github.com/gabrielchen0314/AI-Memory-Vault-core-releases/releases/download/v5.3.0/AI-Memory-Vault-Setup-v5.3.0.exe",
-  "installer": "AI-Memory-Vault-Setup-v5.3.0.exe",
+  "download_url": "https://github.com/gabrielchen0314/AI-Memory-Vault-core-releases/releases/download/v5.3.1/AI-Memory-Vault-Setup-v5.3.1.exe",
+  "installer": "AI-Memory-Vault-Setup-v5.3.1.exe",
   "min_platform_version": "0.3.0",
-  "published": "2026-10-29T09:43:04Z",
-  "sha256": "dfafafe26a4068bc3c3ec1654eca3e7e66bbcfd1abecf2cfda39fcc3f25605db",
+  "published": "2026-11-05T02:26:51Z",
+  "sha256": "a8d5c14a8ca0a037b84d9ef3640e87537fa2b4479d0e158e8f1639c9824e6bc5",
   "signatures": [
     {
       "alg": "ed25519",
       "key_id": "ed25519:d5f447cc71e22201",
-      "sig": "1214ed347360ce98b654ab93ae4b312352878d897f6febd14ef7a59d2285d5b1f41bc70fb67075cc4031c258ca0f188747c75e21354cb2adfcaa16fef38e7a05"
+      "sig": "54a73495ed073c1e12f80e2f1932246cd17dfbeb3d2a754cac7a4fcd3ac4c129b77bb71d1d72d98a6486a80ad651f6fc610c4c5fde138edb3b7bb7a4e16ef50f"
     }
   ],
-  "version": "5.3.0"
+  "version": "5.3.1"
 }
